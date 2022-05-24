@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Emre Kaya
+- 👀 I’m interested in with artificial intelligence and data analysis in the software field
+- 🌱 I’m currently learning artificial intelligence , phyton and data analysis 
+- 📫 How to reach me emre.kaya.2000.offical@gmail.com
